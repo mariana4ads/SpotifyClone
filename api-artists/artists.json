@@ -1,0 +1,21 @@
+{
+  "artists": [
+    { "id": 1, "name": "Foo Fighters", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15" },
+    { "id": 2, "name": "Michael Jackson", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa" },
+    { "id": 3, "name": "Emicida", "genre": "Hip Hop", "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068" },
+    { "id": 4, "name": "Chitãozinho e Xororó", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4" },
+    { "id": 5, "name": "Mc Coringa", "genre": "Funk", "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56" },
+    { "id": 6, "name": "Arlindo Cruz", "genre": "Samba", "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839" },
+    { "id": 7, "name": "Caetano Veloso", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757" },
+    { "id": 8, "name": "Gal Costa", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebce25c56eb261c36e5ebc7864"},
+    { "id": 9, "name": "Vinicius de Moraes", "genre": "Bossa Nova", "urlImg": "https://static.portugues.com.br/2021/06/vinicius-de-moraes-em-1970.jpg"},
+    { "id": 10, "name": "Céu", "genre": "MPB", "urlImg": "https://mixme.com.br/wp-content/uploads/2021/10/am-rediscover-ceu.jpg"},
+    { "id": 11, "name": "Tom Jobim", "genre": "Bossa Nova", "urlImg": "https://www.vagalume.com.br/tom-jobim/images/tom-jobim.jpg"},
+    { "id": 12, "name": "Elis Regina", "genre": "MPB", "urlImg": "https://media.gazetadopovo.com.br/viver-bem/2016/11/5727357-600x614-33f88e80.jpg"},
+    { "id": 13, "name": "Gilberto Gil", "genre": "MPB", "urlImg": "https://conteudo.imguol.com.br/c/entretenimento/bb/2020/09/19/gilberto-gil-ainda-mandou-recado-para-os-fas-se-unirem-a-luta-antirracista-1600567467878_v2_1x1.jpg"},
+    { "id": 14, "name": "Marisa Monte", "genre": "MPB", "urlImg": "https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/411174024_952339749591416_6203883992626701924_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=VGhexFqWVGgAX-zcEQ2&_nc_ht=scontent-gru2-2.xx&oh=00_AfAR6vke_UUFGW8bf7wtxzvDRqh4OmEMEDGfB54rgfdG6Q&oe=65CE2C00"},
+    { "id": 15, "name": "Chico Buarque", "genre": "MPB", "urlImg": "https://secondhandsongs.com/picture/139509?x=16&y=0&w=369&h=369&c=0"},
+    { "id": 16, "name": "João Gilberto", "genre": "Bossa Nova", "urlImg": "https://imagens.brasil.elpais.com/resizer/qVF-sAXdGi9zdBtg2ClL8dxaPU0=/980x980/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/UMOLJADTCCZ7LP5EKOSWJXYWXI.jpg"}
+  ]
+}
+
